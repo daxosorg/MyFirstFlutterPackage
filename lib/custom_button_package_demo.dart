@@ -1,4 +1,4 @@
-library myfirstflutterpackage;
+library custom_button_package_demo;
 
 import 'package:flutter/material.dart';
 
